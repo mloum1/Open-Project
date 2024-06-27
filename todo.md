@@ -29,5 +29,8 @@ Développer le Map en utilisant celui des services de google
 ### User verification 
 - [ ] si la zone géographique du user match au auth zone (lat, long)
 - [ ] si le numero fill au country indicator
-- [ ] 
+### Agent verifiation 
+
+- [ ] verification des agents plus proche (y compris in or not commisariat )
+
 ### Modelisation 
