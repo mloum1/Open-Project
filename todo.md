@@ -24,6 +24,10 @@ Développer le Map en utilisant celui des services de google
 - [ ] reception des données
 - [ ] comparaison
 - [ ] fouille sur les données de la personne associé
-- [ ] recuperation de sa géolocalisation et du camera de son téléphone 
+- [ ] recuperation de sa géolocalisation et du camera de son téléphone
 
+### User verification 
+- [ ] si la zone géographique du user match au auth zone (lat, long)
+- [ ] si le numero fill au country indicator
+- [ ] 
 ### Modelisation 
