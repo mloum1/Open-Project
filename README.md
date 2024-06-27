@@ -1,5 +1,6 @@
 # Open-Project
-Funny developpement avec flutter et spring boot 
+L'objectif de ce développement est de permettre aux citoyens de signaler les incivilités afin de permettre aux forces de l'ordre d'intervenir très rapidement et verbaliser les malfrats.
+Pour se faire 
 
 ## Programming language et versions
 Java 17
