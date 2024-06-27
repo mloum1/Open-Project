@@ -19,3 +19,11 @@ Développer le Map en utilisant celui des services de google
 - [ ] selection d'un commisariat 
 - [ ] Envoi des données à ce commissariat
 - [ ] confimation par mail
+
+### informations sur les voitures et leurs propriétaires 
+- [ ] reception des données
+- [ ] comparaison
+- [ ] fouille sur les données de la personne associé
+- [ ] recuperation de sa géolocalisation et du camera de son téléphone 
+
+### Modelisation 
