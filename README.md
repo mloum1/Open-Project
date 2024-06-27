@@ -1,5 +1,5 @@
 # Open-Project
-L'objectif de ce développement est de permettre aux citoyens de signaler les incivilités afin de permettre aux forces de l'ordre d'intervenir très rapidement et verbaliser les malfrats.
+L'objectif de ce développement est de permettre aux citoyens de signaler les incivilités afin de permettre aux forces de l'ordre d'intervenir très rapidement et verbaliser les malfrats et plus particulièrement ceux les plus proches des lieux.
 Pour se faire 
 
 ## Programming language et versions
